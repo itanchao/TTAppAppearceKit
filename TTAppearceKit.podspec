@@ -9,34 +9,16 @@
 Pod::Spec.new do |s|
   s.name             = 'TTAppearceKit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TTAppearceKit.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
+  s.summary          = 'TTAppearceKit is a simple tools to help you to change the appearce when theme changed'
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+TTAppearceKit is a simple tools to help you to change the appearce when theme changed                       DESC
 
   s.homepage         = 'https://github.com/itanchao/TTAppearceKit'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'itanchao' => 'itanchao@gmail.com' }
   s.source           = { :git => 'https://github.com/itanchao/TTAppearceKit.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'TTAppearceKit/Classes/**/*'
 
-  # s.resource_bundles = {
-  #   'TTAppearceKit' => ['TTAppearceKit/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
