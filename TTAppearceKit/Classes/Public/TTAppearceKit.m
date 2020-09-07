@@ -107,7 +107,7 @@
 }
 - (void)__TT__TTAppearceKit__didMoveToSuperview{
     [self __TT__TTAppearceKit__didMoveToSuperview];
-    [[[TTAppearceKit shared] table] addObject:self];
+    [TTAppearceKit.shared.table addObject:self];
 }
 @end
 
