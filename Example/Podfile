@@ -2,10 +2,10 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target 'TTAppAppearceKit_Example' do
-  pod 'TTAppAppearceKit', :path => '../'
+target 'TTAppearceKit_Example' do
+  pod 'TTAppearceKit', :path => '../'
 
-  target 'TTAppAppearceKit_Tests' do
+  target 'TTAppearceKit_Tests' do
     inherit! :search_paths
 
     pod 'Specta'

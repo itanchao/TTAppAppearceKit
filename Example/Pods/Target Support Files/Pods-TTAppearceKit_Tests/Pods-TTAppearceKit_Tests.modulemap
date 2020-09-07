@@ -1,0 +1,6 @@
+framework module Pods_TTAppearceKit_Tests {
+  umbrella header "Pods-TTAppearceKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

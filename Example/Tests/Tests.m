@@ -1,8 +1,8 @@
 //
-//  TTAppAppearceKitTests.m
-//  TTAppAppearceKitTests
+//  TTAppearceKitTests.m
+//  TTAppearceKitTests
 //
-//  Created by itanchao on 08/15/2020.
+//  Created by itanchao on 09/07/2020.
 //  Copyright (c) 2020 itanchao. All rights reserved.
 //
 

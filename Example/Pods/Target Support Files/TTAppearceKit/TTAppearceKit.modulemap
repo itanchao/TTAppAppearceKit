@@ -1,0 +1,6 @@
+framework module TTAppearceKit {
+  umbrella header "TTAppearceKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

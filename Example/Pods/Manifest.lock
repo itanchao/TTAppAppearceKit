@@ -10,14 +10,14 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - TTAppAppearceKit (0.1.0)
+  - TTAppearceKit (0.1.0)
 
 DEPENDENCIES:
   - Expecta
   - "Expecta+Snapshots"
   - FBSnapshotTestCase
   - Specta
-  - TTAppAppearceKit (from `../`)
+  - TTAppearceKit (from `../`)
 
 SPEC REPOS:
   trunk:
@@ -27,7 +27,7 @@ SPEC REPOS:
     - Specta
 
 EXTERNAL SOURCES:
-  TTAppAppearceKit:
+  TTAppearceKit:
     :path: "../"
 
 SPEC CHECKSUMS:
@@ -35,8 +35,8 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  TTAppAppearceKit: 6750232c41d1398980c5183b4baaf95bedc9d7fc
+  TTAppearceKit: 1312dc8afb14d86e2297d62690672908228de0e0
 
-PODFILE CHECKSUM: 74dbe9d32fd3f0d67ea18ec45d93e7ac76f54138
+PODFILE CHECKSUM: 7eba3aff99ff466493168d27d74f41393f9458c7
 
 COCOAPODS: 1.8.4

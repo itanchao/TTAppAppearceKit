@@ -1,6 +1,0 @@
-framework module TTAppAppearceKit {
-  umbrella header "TTAppAppearceKit-umbrella.h"
-
-  export *
-  module * { export * }
-}
